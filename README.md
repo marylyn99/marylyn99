@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marylyn99
 - 👀 I’m interested in learning python $sql
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on data science and analysis
 - 📫 How to reach me ...
 - 😄 Pronouns: she...
